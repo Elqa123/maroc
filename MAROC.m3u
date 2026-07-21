@@ -1,8 +1,7 @@
 
 #EXTM3U
-
 #EXTINF:-1,Al Aoula Maroc HD
-https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_480p/chunks_dvr.m3u8?token=qQ8DeB5L5KIB8S4iEhIfkfPpyKfiHuKpnbESmclH9MI&expires=1784612335&token_path=%2Fabr_corp%2F73_aloula_w1dqfwm
+https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_360p/chunks_dvr.m3u8?token=6ahnQjuksIyGL4fr1zPwSnEFMy9TUYU5w5rYXbv3h1U&expires=1784640755&token_path=%2Fabr_corp%2F73_aloula_w1dqfwm
 
 #EXTINF:-1,Arryadia Maroc
 https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8?token=xO04ymSAEH9DUCGaTDbCHM3Ag5wz9dspyyXIRKzmLVk&expires=1784605956&token_path=%2Fabr_corp%2F73_arryadia_k2tgcj0
@@ -42,27 +41,48 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist/2.
 #EXTINF:-1,Roya Drama
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist/1.m3u8
 
-#EXTINF:-1,MBC Masr
-https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/video/360p500kbps/video.m3u8
+#EXTINF:-1,Cinema Masr
+#EXTVLCOPT:http-referrer=https://rotana.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/rotana/cinemamasr_480p/chunks.m3u8
 
 #EXTINF:-1,rotana-comedy
+#EXTVLCOPT:http-referrer=https://rotana.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/rotana/comedy_720p/chunks.m3u8
 
 #EXTINF:-1,rotana-cinemamasr
+#EXTVLCOPT:http-referrer=https://rotana.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/rotana/cinemamasr_480p/chunks.m3u8
 
 #EXTINF:-1,rotana-classical
+#EXTVLCOPT:http-referrer=https://rotana.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/rotana/classical_480p/chunks.m3u8
 
 #EXTINF:-1,rotana-drama
+#EXTVLCOPT:http-referrer=https://rotana.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/rotana/drama_480p/chunks.m3u8
 
 #EXTINF:-1,rotana-cinema
+#EXTVLCOPT:http-referrer=https://rotana.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/rotana/cinemamasr_480p/chunks.m3u8
 
 #EXTINF:-1,rotana-LBC
+#EXTVLCOPT:http-referrer=https://rotana.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/rotana/lbc_480p/chunks.m3u8
 
-#EXTINF:-1,Spacetoon
-https://ev-fast-mpd.starzplayarabia.com/live/eds/Spacetoon/_shared_a09df7b94d899397a64fee8b8a957566/Spacetoon-mp4a_212400_ara=10-3645408320040000.mp4
+#EXTINF:-1,Sat7-Kids
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/sat7kidspublish/sat7kids_360p/chunks.m3u8
+
+#EXTINF:-1,roya-kids
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist/3.m3u8
+
+#EXTINF:-1,disney
+https://tvsen5.aynascope.net/disney/index.m3u8
 
 
