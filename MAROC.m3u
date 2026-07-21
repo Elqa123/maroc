@@ -1,0 +1,33 @@
+
+#EXTM3U
+
+#EXTINF:-1,Al Aoula Maroc HD
+https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_480p/chunks_dvr.m3u8?token=8GdBAJhnk47sqBtRiNNSyOsXGSDZe12XoDpOZgFOUmM&expires=1784605150&token_path=%2Fabr_corp%2F73_aloula_w1dqfwm
+
+#EXTINF:-1,Arryadia Maroc
+https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8?token=xO04ymSAEH9DUCGaTDbCHM3Ag5wz9dspyyXIRKzmLVk&expires=1784605956&token_path=%2Fabr_corp%2F73_arryadia_k2tgcj0
+
+#EXTINF:-1,Almaghribia
+https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/chunks_dvr.m3u8?token=ImN53VDnHCwo331cAZeFUFmg8xS-gSOKYOR5A0rkhis&expires=1784606977&token_path=%2Fabr_corp%2F73_almaghribia_83tz85q
+
+#EXTINF:-1,Aflam
+https://shd-amg-fast.edgenextcdn.net/tx001/360p-d/index.m3u8
+
+#EXTINF:-1,Movies-Action
+https://shd-amg-fast.edgenextcdn.net/tx011/1080p-d/index.m3u8
+
+#EXTINF:-1,Movies-Thriller
+https://shd-amg-fast.edgenextcdn.net/tx012/144p-d/index.m3u8
+
+#EXTINF:-1,قناة-كامل-العدد
+https://shd-amg-fast.edgenextcdn.net/tx022/1080p-d/index.m3u8
+
+#EXTINF:-1,القرآن-الكريم
+https://shd-amg-fast.edgenextcdn.net/tx016/576p-d/index.m3u8
+
+ 
+#EXTINF:-1,قناة-مسرح-مصر
+https://shd-amg-fast.edgenextcdn.net/tx009/1080p-d/index.m3u8
+
+#EXTINF:-1,طاش 
+https://shd-amg-fast.edgenextcdn.net/tx015/720p-d/index.m3u8
