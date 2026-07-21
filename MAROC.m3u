@@ -2,7 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1,Al Aoula Maroc HD
-https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_480p/chunks_dvr.m3u8?token=8GdBAJhnk47sqBtRiNNSyOsXGSDZe12XoDpOZgFOUmM&expires=1784605150&token_path=%2Fabr_corp%2F73_aloula_w1dqfwm
+https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_480p/chunks_dvr.m3u8?token=qQ8DeB5L5KIB8S4iEhIfkfPpyKfiHuKpnbESmclH9MI&expires=1784612335&token_path=%2Fabr_corp%2F73_aloula_w1dqfwm
 
 #EXTINF:-1,Arryadia Maroc
 https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8?token=xO04ymSAEH9DUCGaTDbCHM3Ag5wz9dspyyXIRKzmLVk&expires=1784605956&token_path=%2Fabr_corp%2F73_arryadia_k2tgcj0
@@ -17,7 +17,7 @@ https://shd-amg-fast.edgenextcdn.net/tx001/360p-d/index.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx011/1080p-d/index.m3u8
 
 #EXTINF:-1,Movies-Thriller
-https://shd-amg-fast.edgenextcdn.net/tx012/144p-d/index.m3u8
+https://shd-amg-fast.edgenextcdn.net/tx012/360p-d/index.m3u8
 
 #EXTINF:-1,قناة-كامل-العدد
 https://shd-amg-fast.edgenextcdn.net/tx022/1080p-d/index.m3u8
@@ -31,3 +31,38 @@ https://shd-amg-fast.edgenextcdn.net/tx009/1080p-d/index.m3u8
 
 #EXTINF:-1,طاش 
 https://shd-amg-fast.edgenextcdn.net/tx015/720p-d/index.m3u8
+
+#EXTINF:-1,MBC 1
+https://shd-gcp-live-orng.shahid.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/manifest/video/360p500kbps/video.m3u8
+
+#EXTINF:-1,Roya Comedy
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist/2.m3u8
+
+
+#EXTINF:-1,Roya Drama
+https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist/1.m3u8
+
+#EXTINF:-1,MBC Masr
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/video/360p500kbps/video.m3u8
+
+#EXTINF:-1,rotana-comedy
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/rotana/comedy_720p/chunks.m3u8
+
+#EXTINF:-1,rotana-cinemamasr
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/rotana/cinemamasr_480p/chunks.m3u8
+
+#EXTINF:-1,rotana-classical
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/rotana/classical_480p/chunks.m3u8
+
+#EXTINF:-1,rotana-drama
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/rotana/drama_480p/chunks.m3u8
+
+#EXTINF:-1,rotana-cinema
+
+#EXTINF:-1,rotana-LBC
+https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/rotana/lbc_480p/chunks.m3u8
+
+#EXTINF:-1,Spacetoon
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Spacetoon/_shared_a09df7b94d899397a64fee8b8a957566/Spacetoon-mp4a_212400_ara=10-3645408320040000.mp4
+
+
