@@ -85,4 +85,10 @@ https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist/3.m3
 #EXTINF:-1,disney
 https://tvsen5.aynascope.net/disney/index.m3u8
 
+#EXTINF:-1,spacetoongo
+https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
+
+#EXTINF:-1,AmouYazid
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
+
 
