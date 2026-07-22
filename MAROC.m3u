@@ -1,7 +1,7 @@
 
 #EXTM3U
-#EXTINF:-1,Al Aoula Maroc HD
-https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_360p/chunks_dvr.m3u8?token=6ahnQjuksIyGL4fr1zPwSnEFMy9TUYU5w5rYXbv3h1U&expires=1784640755&token_path=%2Fabr_corp%2F73_aloula_w1dqfwm
+#EXTINF:-1,MixTV
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 
 #EXTINF:-1,Arryadia Maroc
 https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8?token=xO04ymSAEH9DUCGaTDbCHM3Ag5wz9dspyyXIRKzmLVk&expires=1784605956&token_path=%2Fabr_corp%2F73_arryadia_k2tgcj0
